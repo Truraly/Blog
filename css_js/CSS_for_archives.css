@@ -6,15 +6,19 @@
     position:fixed;
     top:0px;
     left:0%;
-    height: 10%;
+    height: auto;
     width: 100%;
     background-color:#ffffff;
     opacity:0.8;
     
     border-bottom: 2px solid #7e1671;
 }
+.head-t{
+     margin-left: 25%;
+
+}
 .head h2{
-    display:inline;
+    display:inline-block;
     float:left;
     color:#792d6f;
 
@@ -35,8 +39,10 @@
 .head a:active {color:#681752}  /* 鼠标点击时 */
 
 .Tyblog{
+
     width: 50%;
     margin:auto;
+    margin-top: 100px;
     /*margin-top:10%;*/
     padding-top:0px;
     padding-bottom:0px;
