@@ -1,0 +1,92 @@
+.Back{
+    background-color:#e0d4e2;
+}
+.head
+{
+    position:fixed;
+    top:0px;
+    left:0%;
+    height: 10%;
+    width: 100%;
+    background-color:#ffffff;
+    opacity:0.8;
+    
+    border-bottom: 2px solid #7e1671;
+}
+.head h2{
+    display:inline;
+    float:left;
+    color:#792d6f;
+
+}
+.head a{
+    margin-top:10px;
+    display:inline;
+    float:left;
+    font-size:175%;
+    font-weight:bold;
+    text-decoration:none;
+    opacity:1;
+	
+}
+.head a:link {color:#ad6598}      /* 未访问链接*/
+.head a:visited {color:#ad6598}  /* 已访问链接 */
+.head a:hover {color:#681752}  /* 鼠标移动到链接上 */
+.head a:active {color:#681752}  /* 鼠标点击时 */
+
+.Tyblog{
+    width: 50%;
+    margin:auto;
+    /*margin-top:10%;*/
+    padding-top:0px;
+    padding-bottom:0px;
+    
+}
+.Tyblog p{
+    font-size:300%;
+    text-align: center;
+    font-family:"Times New Roman", Times, serif;
+    color:#12002f;
+}
+.arch{
+    margin-left:25%;
+    width: 50%;
+
+}
+.arch h1{
+    color:#c06f98;
+}
+.arch h2{
+    color:#c06f98;
+}
+.arch h3{
+    color:#c06f98;
+}
+.arch h4{
+    color:#c06f98;
+}
+.arch_ul{
+    list-style-type: none;
+    line-height:200%
+}
+.arch a{text-decoration:none;}
+.arch a:link {color:#681752}      /* 未访问链接*/
+.arch a:visited {color:#681752}  /* 已访问链接 */
+.arch a:hover {color:#ad6598}  /* 鼠标移动到链接上 */
+.arch a:active {color:#ad6598}  /* 鼠标点击时 */
+.ICP{
+    text-align:center;
+    margin-top:300px;
+    color:#ad6598;
+}
+
+.hrline{
+    /*水平线*/
+    
+    width: 100%;
+    border-top:2px  solid #7e1671;
+}
+
+ul{
+    list-style-type:disc;
+}
